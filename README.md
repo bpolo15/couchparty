@@ -23,8 +23,9 @@ After voting, users can chat with each other.
 JavaScript, React Native, React.JS, Firebase, Giftedchat
 
 # The Team
-Cynthia Yuen Arbit - https://github.com/chyarbit
-Lukas hirsch - https://github.com/lhirsch1
+- Cynthia Yuen Arbit - https://github.com/chyarbit
+
+- Lukas hirsch - https://github.com/lhirsch1
 
 # Application link
 To access the mobile app (Android only), please visit https://expo.io/@bpolo15/couchparty-native.  
